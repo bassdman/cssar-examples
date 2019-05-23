@@ -1,7 +1,7 @@
 //const outputPlugin = require('atomize-css/outputplugin');
 
 module.exports = {
-    src: './examples/basic/template.html',
+    src: './template.html',
    // output: 'dist/template.html',
     dest: 'dist/template.html',
    /* plugins: [
