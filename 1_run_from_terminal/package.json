@@ -8,7 +8,7 @@
     "cssar_3params": "cssar template.html dist/output_3.html cssar3-config.js",
     "cssar_2params": "cssar template.html dist/output_2.html",
     "cssar_1params": "cssar cssar1-config.js",
-    "cssar_all": "npm run cssar_1params  && npm run cssar_3params"
+    "cssar_all": "npm run cssar_1params  && npm run cssar_2params && npm run cssar_3params"
   },
   "author": "",
   "license": "MIT",
