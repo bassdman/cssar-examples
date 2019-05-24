@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cssar_3params": "cssar template.html dist/output_3.html cssar3-config.js",
-    "cssar_2params": "cssar template.html dist/output_2.html",
+    "cssar_3params": "cssar template.html dist/output_3.css cssar3-config.js",
+    "cssar_2params": "cssar template.html dist/output_2.css",
     "cssar_1params": "cssar cssar1-config.js",
     "cssar_all": "npm run cssar_1params  && npm run cssar_2params && npm run cssar_3params"
   },
