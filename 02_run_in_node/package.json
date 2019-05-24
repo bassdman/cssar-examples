@@ -1,0 +1,11 @@
+{
+  "name": "cssar-example-02",
+  "version": "1.0.0",
+  "description": "An example how to init cssar via node-api",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cssar": "file:../../cssar/"
+  }
+}
